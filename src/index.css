@@ -1,0 +1,22 @@
+.custom-tabs .TabList {
+  background-color: #333;
+  border: 2px solid #d7293cff;
+  border-radius: 10px;
+}
+
+.custom-tabs .Tab {
+  font-size: 1.2rem;
+  color: #fff;
+}
+
+.custom-tabs .TabPanels {
+  padding: 1rem;
+  margin-top: 1rem;
+}
+
+.custom-tabs .Tab:focus {
+  background-color: #d7293cff;
+  color: #fff;
+  border-radius: 10px;
+  outline: none;
+}
